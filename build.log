@@ -4360,3 +4360,4 @@ renamed '/root/git/src/git_2.37.2.orig.tar.xz' -> '/root/git/dst/git_2.37.2.orig
 renamed '/root/git/src/git_2.37.2-1000.dsc' -> '/root/git/dst/git_2.37.2-1000.dsc'
 renamed '/root/git/src/build.log' -> '/root/git/dst/build.log'
 renamed '/root/git/src/git.debian.log' -> '/root/git/dst/git.debian.log'
+Copy GitHub Action 'mirror.yml' to repository...
